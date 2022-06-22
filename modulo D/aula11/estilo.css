@@ -1,0 +1,19 @@
+body{
+    background: rgb(103, 103, 226);
+    font: normal 15pt Verdana;
+}
+
+
+
+
+div{
+    text-align: right;
+    padding: 5px;
+    margin: 20px 10px 0 0;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
